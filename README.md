@@ -1,4 +1,4 @@
-# realistic_random_word_generator 📖
+# Realistic Random Rord Renerator 📖
 
 Generate pronounceable English gibberish with ease! Gibberisher, rooted in linguistic patterns and advanced data structures, crafts gibberish that sounds like real English. Useful for generating nonsense words for pedagogical purposes or just for fun.
 
