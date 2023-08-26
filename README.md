@@ -6,7 +6,7 @@ Generate pronounceable English gibberish with ease! Gibberisher, rooted in lingu
 
 Creating random words that seem pronounceable in English can be surprisingly challenging. A simple random combination of letters can result in an output like "zqzzrz". Gibberisher is designed to understand the subtle intricacies of English letter combinations to produce words like "demors" instead.
 
-### 🔍 Theory Behind Gibberisher
+## 🔍 Theory Behind Gibberisher
 
 There are algorithms that randomly generate words, but they don't necessarily produce pronounceable results. Gibberisher is based on a more refined model, considering:
 
@@ -28,10 +28,10 @@ While word doesn’t end with the STOP letter:
 return word.
 ```
 
-### 🛠 Key Features
+## 🛠 Key Features
 1. Diverse Word Generation: Suitable for different languages with slight tweaks.
 2. Efficiency: Optimized data structures to handle a dictionary of 62,915 English words.
 3. Customizability: Adjust the word length and other parameters to fit your needs.
 
-### 🙌 Contributions
+## 🙌 Contributions
 Feel free to fork, make pull requests or open issues. We appreciate any contributions.
