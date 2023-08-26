@@ -28,10 +28,10 @@ While word doesn’t end with the STOP letter:
 return word.
 ```
 
-## 🛠 Key Features
+### 🛠 Key Features
 1. Diverse Word Generation: Suitable for different languages with slight tweaks.
 2. Efficiency: Optimized data structures to handle a dictionary of 62,915 English words.
 3. Customizability: Adjust the word length and other parameters to fit your needs.
 
-🙌 Contributions
-Feel free to fork, make pull requests or open issues. We appreciate any contributions!
+### 🙌 Contributions
+Feel free to fork, make pull requests or open issues. We appreciate any contributions.
