@@ -34,4 +34,4 @@ return word.
 3. Customizability: Adjust the word length and other parameters to fit your needs.
 
 ## 🙌 Contributions
-Feel free to fork, make pull requests or open issues. We appreciate any contributions.
+Feel free to fork, make pull requests or open issues. I appreciate any contributions.
