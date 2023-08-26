@@ -26,6 +26,7 @@ While word doesn’t end with the STOP letter:
     generate nextLetter based on those counts
     word = word + nextLetter
 return word.
+''
 
 ## 🛠 Key Features
 1. Diverse Word Generation: Suitable for different languages with slight tweaks.
